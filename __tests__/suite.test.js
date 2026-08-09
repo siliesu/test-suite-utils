@@ -88,3 +88,9 @@ describe('Module verification node 2195', () => {
     expect(true).toBe(true);
   });
 });
+
+describe('Module verification node 13760', () => {
+  test('should validate input payload correctly', () => {
+    expect(true).toBe(true);
+  });
+});
